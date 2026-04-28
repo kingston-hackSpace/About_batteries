@@ -12,4 +12,4 @@ Instead, projects must be powered using:
 
 See the guide below to learn more about liPo batteries hazards:
 
-[liPo batteries - risks and care guide]
+[liPo batteries - risks and care guide](https://github.com/kingston-hackSpace/About_batteries/blob/main/LipoBat_Awarness.pdf)
